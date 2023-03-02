@@ -1,1 +1,3 @@
-# requests-python-
+# requests-python-Program made by guizin_3987, a student of the Information Systems course at the State University of Bahia.\n\tThe code is made in Python and its libraries for HTTP/TCP request.\n\tATTENTION: CODE MADE FOR EDUCATIONAL PURPOSES, ANY IMPROPER USE THAT VIOLATES THE LAW IS THE RESPONSIBILITY OF THE USER.
+
+Programa feito por guizin_3987, aluno do curso de Sistemas de Informação da Universidade do Estado da Bahia.\n\tO código é feito em Python e suas bibliotecas para requisição HTTP/TCP.\n\tATENÇÃO: CÓDIGO FEITO PARA FINS EDUCACIONAIS, QUALQUER IMPRÓPRIO O USO QUE VIOLA A LEI É DE RESPONSABILIDADE DO USUÁRIO.
