@@ -4,9 +4,6 @@ import art
 import time
 
 """
-Program made by guizin_3987, a student of the Information Systems course at the State University of Bahia.\n\tThe code is made in Python and its libraries for HTTP/TCP request.\n\tATTENTION: CODE MADE FOR EDUCATIONAL PURPOSES, ANY IMPROPER USE THAT VIOLATES THE LAW IS THE RESPONSIBILITY OF THE USER.
-
-
 Creating a txt file
  arquivo = open("subdominios.txt", "w")
  arquivo.write("login.php")
